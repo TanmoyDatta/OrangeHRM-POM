@@ -1,0 +1,15 @@
+{
+  "name": "orangehrm-pom",
+  "version": "1.0.0",
+  "description": "Website automation using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanmoy Datta",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}

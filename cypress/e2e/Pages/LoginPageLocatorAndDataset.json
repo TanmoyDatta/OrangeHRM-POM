@@ -1,0 +1,8 @@
+{
+    "username": "//input[@placeholder='Username']",
+    "password": "//input[@placeholder='Password']",
+    "login": "//button[normalize-space()='Login']",
+
+    "user_value":"Admin",
+    "user_password":"admin123"
+}
